@@ -14,7 +14,7 @@ export const useChatScroll = ({
   shouldLoadMore,
   loadMore,
   count,
-}: ChatscrollProps) => {
+}: ChatScrollProps) => {
   const [hasInitialized, setHasInitialized] = useState(false);
 
   useEffect(() => {
