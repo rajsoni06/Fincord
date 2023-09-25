@@ -4,13 +4,15 @@ import { Smile } from "lucide-react";
 import { useTheme } from "next-themes";
 import dynamic from "next/dynamic";
 
-//import Picker from "@emoji-mart/react";
 import data from "@emoji-mart/data";
 
+//https://github.com/missive/emoji-mart/issues/849
+//import Picker from "@emoji-mart/react";
 const Picker = dynamic(
   () => import("@emoji-mart/react").then((mod) => mod.default),
   { ssr: false }
 );
+
 import {
   Popover,
   PopoverContent,
