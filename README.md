@@ -7,9 +7,9 @@ A fullstack Discord clone built with Next.js, React, Tailwind, Socket.IO, Prisma
 ## Features
 
 * 🔐 Authentication using Clerk
-* 📊 MySQL database using PlanetScale and Prisma ORM
+* 📊 MySQL database with PlanetScale and Prisma ORM
 * ✉️ Real-time messaging using Socket.IO with polling as a fallback
-* 🔉 Audio and video calls using LiveKit
+* 🔉 Audio and video calls with LiveKit
 * 🔃 Infinite scroll for loading messages using @tanstack/react-query
 * ⚙️ Create and customize servers and channels
 * 📝 Edit and delete messages
