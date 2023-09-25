@@ -2,7 +2,7 @@
 
 A fullstack Discord clone built with Next.js, React, Tailwind, Socket.IO, Prisma, and MySQL.
 
-![Screenshot](https://github.com/sgbj/discord-clone/assets/5178445/38cc0189-5818-416a-ba89-d36696a63a0a)
+![Screenshot](https://github.com/sgbj/discord-clone/assets/5178445/5275cd75-34fd-47dc-b690-9130f2c818da)
 
 ## Features
 
