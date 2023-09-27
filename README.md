@@ -4,6 +4,8 @@ A fullstack Discord clone built with Next.js, React, Tailwind, Socket.IO, Prisma
 
 ![Screenshot](https://github.com/sgbj/discord-clone/assets/5178445/5275cd75-34fd-47dc-b690-9130f2c818da)
 
+
+
 ## Features
 
 * 🔐 Authentication using Clerk
@@ -64,6 +66,6 @@ npx prisma db push
 npm run dev
 ```
 
-## Credit
+### Credit
 
-[Fullstack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL | Full Course 2023](https://www.youtube.com/watch?v=ZbX4Ok9YX94)
+Created by following along with [AntonioErdeljac/next13-discord-clone](https://github.com/AntonioErdeljac/next13-discord-clone).
