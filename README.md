@@ -24,7 +24,7 @@ A fullstack Discord clone built with Next.js, React, Tailwind, Socket.IO, Prisma
 ### Clone the repo
 
 ```bash
-git clone https://github.com/sgbj/discord-clone.git
+git clone https://github.com/rajsoni06/Fincord.git
 ```
 
 ### Install dependencies
