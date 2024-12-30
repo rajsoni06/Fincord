@@ -65,7 +65,3 @@ npx prisma db push
 ```bash
 npm run dev
 ```
-
-### Credit
-
-Created by following along with [AntonioErdeljac/next13-discord-clone](https://github.com/AntonioErdeljac/next13-discord-clone).
