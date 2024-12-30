@@ -1,4 +1,4 @@
-# Discord Clone
+# Fincord
 
 A fullstack Discord clone built with Next.js, React, Tailwind, Socket.IO, Prisma, and MySQL.
 
